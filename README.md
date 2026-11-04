@@ -1,2 +1,2 @@
-# Defending-LLMs-against-attacks
-This is a project base on receiving attacks against LLMs and aknowleding them with a guard Model.
+# Defending-LLMs-Against-Attacks
+This is a project base on Receiving Attacks against LLMs and Aknowleding them with a Guard Model.
